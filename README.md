@@ -13,8 +13,6 @@ msbuild  "C:\Users\Praveen\Documents\VendingMachine-master\VendingMachine.sln" /
 
 Running tests without Visual Studio is a very tricky process, if you really want to do it you can follow the guide here:
 
-http://blog.anthonybaker.me/2013/05/running-mstest-without-visual-studio.html
-
 Otherwise you can install Visual Studio test agent or just Regular Visual Studio.  To run tests outside of the Visual Studio app
 you can use MSTest in the Visual Studio Command Line.  Navigate to \VendingMachine\VendingMachineTest\bin\Debug and run the
 following command:
